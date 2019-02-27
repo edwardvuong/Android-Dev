@@ -1,8 +1,8 @@
-# Login :point_right: Register :soon: Welcome
+# Login  :point_right:  Register  :point_right:  Welcome :point_right: :boom:
 
-:soon: Pass user data into welcome view
-:soon: Support different screen sizes
-:soon: Pass user data into welcome view
+:soon: Pass user data into welcome view</br>
+:soon: Support different screen sizes</br>
+:soon: Pass user data into welcome view</br>
 
 ## Alpha 0.2 ##
 :white_check_mark: Authentication service implementation </br>
