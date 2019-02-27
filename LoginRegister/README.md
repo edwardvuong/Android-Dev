@@ -12,6 +12,10 @@
 :white_check_mark: Ensure no duplicate users are created using same username </br>
 :white_check_mark: Welcome view </br>
 
+<p align="center">
+<img src="welcome.png" width="350" title="sup">
+</p>
+
 ![Welcome](welcome.png)
 ![Login](login.png)
 ![Register](register.png)
