@@ -13,12 +13,10 @@
 :white_check_mark: Welcome view </br>
 
 <p align="center">
-<img src="welcome.png" width="350" title="sup">
+<img src="login.png" width="250">
+<img src="register.png" width="250">
+<img src="welcome.png" width="250">
 </p>
-
-![Welcome](welcome.png)
-![Login](login.png)
-![Register](register.png)
 
 ## Alpha 0.1 ##
 :white_check_mark: Login view </br>
